@@ -1,4 +1,4 @@
-# NYS Next Generation ELA Learning Standards (2017, rev. 2019) — LLM Overview
+# NYS Next Generation ELA Learning Standards Overview
 
 ## Purpose & Scope
 PreK–12 standards revised 2017 (minor typo corrections 2018–2019). Replaces older CCSS-based NY standards. Organized as: **Anchor Standards → Grade-Level Standards → Appendices**. Document covers grades PK, K, 1–5, 6–8 (as 6/7/8), 9–10, 11–12.
