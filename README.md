@@ -8,4 +8,6 @@ Important information about the NYC READS initiative, including:
     - 6-8 standards at a glance.
   Use and reference the appropriate standards often.
 
+- NYCPS literacy shifts
+
 - highly specific email templates for certain districts (D11, D12, D13). If you don't know the district of the educator you're drafting an email to, make sure to ask the coach: email templates are incredibly important to the NYC READS initiative.
